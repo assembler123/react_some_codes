@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.toe {
+  display: flex;
+}
+.side {
+  padding: 10px;
+  border-right: 1px solid saddlebrown;
+}
+.main {
+  padding: 20px;
+}
